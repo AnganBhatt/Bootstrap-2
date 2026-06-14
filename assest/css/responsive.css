@@ -133,6 +133,19 @@
     .social-icons {
         justify-content: center;
     }
+   
+   /* ======work- responsive========== */
+   
+    .work-part img {
+        display: none;
+    }
+
+    /* ========Expert- areas=========== */
+   
+    .article-button {
+        display: block;
+        margin: 0 auto 15px auto;
+    }
 }
 
 /* Small Mobile */
