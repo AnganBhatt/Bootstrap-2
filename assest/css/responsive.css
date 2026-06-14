@@ -153,6 +153,20 @@
     .left-text p{
         text-align: left;
     }
+   
+    /* =================all-link-design-for-phone================== */
+   
+    .about-link {
+        display: block;
+        margin: auto;
+        width: 170px;
+    }
+   
+    .brand-link {
+        display: block;
+        margin: auto;
+        width: 170px;
+    }
 }
 
 /* Small Mobile */
