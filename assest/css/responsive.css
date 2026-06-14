@@ -146,6 +146,13 @@
         display: block;
         margin: 0 auto 15px auto;
     }
+   
+      /* ====== WORK EXPERIENCE SECTION ====== */
+   
+    .left-text h5,
+    .left-text p{
+        text-align: left;
+    }
 }
 
 /* Small Mobile */
