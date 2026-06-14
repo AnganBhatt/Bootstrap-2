@@ -195,4 +195,38 @@
     .navbar-nav .nav-link {
         text-align: center;
     }
+
+   /* ======work- responsive========== */
+   
+    .work-part img {
+        display: none;
+    }
+
+    /* ========Expert- areas=========== */
+   
+    .article-button {
+        display: block;
+        margin: 0 auto 15px auto;
+    }
+   
+      /* ====== WORK EXPERIENCE SECTION ====== */
+   
+    .left-text h5,
+    .left-text p{
+        text-align: left;
+    }
+   
+    /* =================all-link-design-for-phone================== */
+   
+    .about-link {
+        display: block;
+        margin: auto;
+        width: 170px;
+    }
+   
+    .brand-link {
+        display: block;
+        margin: auto;
+        width: 170px;
+    }
 }
