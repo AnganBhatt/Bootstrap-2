@@ -24,14 +24,15 @@ a {
 .navbar {
     padding: 16px 0;
 }
-.nav-item{
+
+.nav-item {
     padding: 10px 22.5px;
 }
+
 .navbar-nav .nav-link {
     font-weight: 500;
     font-size: 15px;
     color: var(--color-dark);
-    padding: 8px 18px;
     position: relative;
 }
 
@@ -335,7 +336,7 @@ a {
 
 .Service-head {
     margin-top: 20px;
-    !important margin-bottom: 20px;
+     margin-bottom: 20px;
 }
 
 .container h4 {
@@ -380,7 +381,7 @@ a {
 }
 
 .feedback-head h4,
-p {
+.feedback-head p {
     text-align: left;
 }
 
